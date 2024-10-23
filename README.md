@@ -22,7 +22,7 @@ This project focuses on analyzing flight prices from a dataset obtained from Goi
 - **Jupyter Notebook** for executing and documenting the analysis.
   
 # Questions Answered
-1. Best Time to Fly (Price vs. Time Analysis)
+# 1. Best Time to Fly (Price vs. Time Analysis)
 
 Objective: Identify the best time to book flights for the lowest prices by analyzing historical flight data.
 
