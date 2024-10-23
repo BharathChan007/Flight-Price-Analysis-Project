@@ -23,17 +23,29 @@ This project focuses on analyzing flight prices from a dataset obtained from Goi
 
 ### Dataset
 The dataset contains the following columns:
+
 **flight_date**: The date of the flight.
+
 **airline**: The airline providing the flight.
+
 **flight_num**: The flight number.
+
 **class**: The class of the ticket (Economy, Business, etc.).
+
 **from**: Departure city.
+
 **dep_time**: Departure time.
+
 **to**: Destination city.
+
 **arr_time**: Arrival time.
+
 **duration**: Duration of the flight.
+
 **price**: Price of the flight.
+
 **stops**: Number of stops during the flight.
+
 
 # Questions Answered
 # 1. Best Time to Fly (Price vs. Time Analysis)
