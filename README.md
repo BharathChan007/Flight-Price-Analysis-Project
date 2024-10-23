@@ -1,6 +1,4 @@
-# Flight-Price-Analysis-Project
-Here’s an updated description for your project on GitHub, reflecting the two completed analyses:
-
+# Goibibo Flight-Price-Analysis-Project
 
 
 ## Overview
